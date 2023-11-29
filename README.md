@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Система мониторинга Zabbix. Часть 2» - Михалёв Сергей
+# Домашнее задание к занятию «Disaster Recovery. FHRP и Keepalived» - Михалёв Сергей
 
 ------
 
@@ -11,6 +11,7 @@
 
 #### Результат
 - [Схема](https://drive.google.com/file/d/12LLh5TgpTgAH4TYutyjCgsFdtbzTLWgr/view?usp=sharing) в формате pkt.
+- <img src="[img/Seconf_task_img_1.png](https://drive.google.com/file/d/12LLh5TgpTgAH4TYutyjCgsFdtbzTLWgr/view?usp=sharing)" alt="Схема" width="500" height="auto">
 - [Скриншот](https://drive.google.com/file/d/12F-u6p3tbj4L3VAovA3M7EKyQLBSWVEb/view?usp=sharing), где виден процесс настройки маршрутизатора.
 - [Схема](https://drive.google.com/file/d/12GgzHDYYFPm6gT1dABg0SeqD_spz903N/view?usp=sharing) с разорванной связью и [скриншот](https://drive.google.com/file/d/12AYLL_YxN7u9JpmzS4rHCkt2RjrSeZdT/view?usp=sharing) отправки пакета на сервер и обратно.
 
