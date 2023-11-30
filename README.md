@@ -26,11 +26,11 @@
 ### Выполнение
 - В папку */home/vagrant/* поместил файл *index.html* следующего содержания:
 ```
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 
-<h1>My IP is 192.168.56.3</h1>
+<h1>My IP is 192.168.56.4</h1>
 
 </body>
 </html>
