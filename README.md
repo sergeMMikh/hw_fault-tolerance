@@ -43,7 +43,6 @@
 - bash-скрипт проверки доступности *http* хоста по порту *9000* и проверки наличия *index.html* файла
 ```
 #!/bin/bash
-error=0
 
 curl localhost:9000 || exit 1
 [[ -f index.html ]] || exit 1
